@@ -1,0 +1,5 @@
+
+.ipynb_checkpoints/Submission_notebook-checkpoint.ipynb
+*.pyc
+.ipynb_checkpoints/Aavail_EDA-checkpoint.ipynb
+data/.ipynb_checkpoints/aavail-target-checkpoint.csv

@@ -1,3 +1,18 @@
 unique_id,timestamp,y_pred,y_proba,query,model_version,runtime
-22b3cc89-7d03-4ff6-a7f7-0b8b7d393361,1609247158.622387,[0],"[0.6, 0.4]","['united_states', 24, 'aavail_basic', 8]",0.1,00:00:02
-319bca0b-27a3-4103-85f0-51c875d89b98,1609247158.622588,[0],"[0.6, 0.4]","['united_states', 24, 'aavail_basic', 8]",0.1,00:00:02
+f233daec-9167-4786-8e16-6571618da9e4,1609248718.1996741,[0],"[0.6, 0.4]","['united_states', 24, 'aavail_basic', 8]",0.1,00:00:02
+6eebf74f-b954-47c2-96fd-e47d58b137d8,1609248718.1999319,[0],"[0.6, 0.4]","['united_states', 24, 'aavail_basic', 8]",0.1,00:00:02
+1012cf1b-ebe8-4773-afd8-5c0988828876,1609248722.071382,0.0,None,"['united_states', 24, 'aavail_basic', 8]",0.1,000:00:00
+88592f87-2afe-4602-9062-70106d214a55,1609248722.071744,1.0,None,"['singapore', 42, 'aavail_premium', 17]",0.1,000:00:00
+1388ed16-5887-451a-afa2-1d577744fa3a,1609248722.072078,0.0,None,"['united_states', 20, 'aavail_basic', 14]",0.1,000:00:00
+3f488bb8-8407-48e8-b2a3-25b45538dd7e,1609251635.593497,0.0,None,"['united_states', 24, 'aavail_basic', 8]",0.1,000:00:00
+cc486612-01c0-4544-a223-72efdb1488c0,1609251635.593854,1.0,None,"['singapore', 42, 'aavail_premium', 17]",0.1,000:00:00
+508f7245-0b4a-4063-b32a-c943f3c0cf69,1609251635.594133,0.0,None,"['united_states', 20, 'aavail_basic', 14]",0.1,000:00:00
+f73dea57-3e66-446a-9f14-747367f5217f,1609251640.7524889,0.0,None,"['united_states', 24, 'aavail_basic', 8]",0.1,000:00:00
+d5066afc-b0e7-49a9-9657-89e4f1750fc6,1609251640.752856,1.0,None,"['singapore', 42, 'aavail_premium', 17]",0.1,000:00:00
+49785668-7d6b-4649-9c4f-042019260f7b,1609251640.753216,0.0,None,"['united_states', 20, 'aavail_basic', 14]",0.1,000:00:00
+ffc88796-52a1-487a-9953-5ca855dac0df,1609251647.467606,0.0,None,"['united_states', 24, 'aavail_basic', 8]",0.1,000:00:00
+52e9a2cc-34a3-41b2-b4f5-f957bfd239fa,1609251647.4679549,1.0,None,"['singapore', 42, 'aavail_premium', 17]",0.1,000:00:00
+32a57f34-7cba-4ea7-924c-99e1270e3131,1609251647.468243,0.0,None,"['united_states', 20, 'aavail_basic', 14]",0.1,000:00:00
+1938d19e-8bd2-49bf-b08a-5253dac968e4,1609251676.360737,0.0,None,"['united_states', 24, 'aavail_basic', 8]",0.1,000:00:00
+29944e10-339c-414e-a851-8038f9e42bb5,1609251768.914026,0.0,None,"['united_states', 24, 'aavail_basic', 8]",0.1,000:00:00
+1190b824-23ab-4206-8f48-775ada6826b7,1609251776.37764,0.0,None,"['united_states', 24, 'aavail_basic', 8]",0.1,000:00:00
