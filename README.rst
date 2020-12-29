@@ -12,7 +12,7 @@ Access http://0.0.0.0:8080/ to see the webside
     
 ===============
 
-### Build with Dokcer container
+Build with Dokcer container
 --------------------------------
 
 .. code-block:: bash
